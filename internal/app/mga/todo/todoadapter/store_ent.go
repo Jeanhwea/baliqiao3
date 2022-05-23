@@ -7,8 +7,8 @@ import (
 
 	"github.com/sagikazarmark/todobackend-go-kit/todo"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/todoitem"
 )
 
 type entStore struct {

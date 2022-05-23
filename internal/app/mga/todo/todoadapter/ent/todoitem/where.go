@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/predicate"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

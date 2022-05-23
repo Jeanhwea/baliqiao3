@@ -5,7 +5,7 @@ DEST="."
 
 # Original project variables
 originalProjectName="project"
-originalPackageName="github.com/sagikazarmark/modern-go-application"
+originalPackageName="github.com/Jeanhwea/baliqiao3"
 originalBinaryName="modern-go-application"
 originalAppName="mga"
 originalFriendlyAppName="Modern Go Application"

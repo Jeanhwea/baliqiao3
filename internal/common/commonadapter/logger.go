@@ -5,7 +5,7 @@ import (
 
 	"logur.dev/logur"
 
-	"github.com/sagikazarmark/modern-go-application/internal/common"
+	"github.com/Jeanhwea/baliqiao3/internal/common"
 )
 
 // Logger wraps a logur logger and exposes it under a custom interface.

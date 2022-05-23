@@ -9,7 +9,7 @@ import (
 	"go.opencensus.io/trace"
 	"google.golang.org/grpc"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/todocli/command"
+	"github.com/Jeanhwea/baliqiao3/internal/app/todocli/command"
 )
 
 // Configure configures a root command.

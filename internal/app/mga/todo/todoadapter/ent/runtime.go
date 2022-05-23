@@ -5,8 +5,8 @@ package ent
 import (
 	"time"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/schema"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/schema"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/todoitem"
 )
 
 // The init function reads all schema descriptors with runtime code

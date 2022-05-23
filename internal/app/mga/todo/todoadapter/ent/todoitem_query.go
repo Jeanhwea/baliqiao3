@@ -11,8 +11,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/predicate"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/predicate"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/todoitem"
 )
 
 // TodoItemQuery is the builder for querying TodoItem entities.

@@ -1,7 +1,7 @@
 package mga
 
 import (
-	"github.com/sagikazarmark/modern-go-application/internal/common"
+	"github.com/Jeanhwea/baliqiao3/internal/common"
 )
 
 // These interfaces are aliased so that the module code is separated from the rest of the application.

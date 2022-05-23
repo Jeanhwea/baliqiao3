@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/Jeanhwea/baliqiao3/internal/app/mga/todo/todoadapter/ent/todoitem"
 )
 
 // ent aliases to avoid import conflicts in user's code.
